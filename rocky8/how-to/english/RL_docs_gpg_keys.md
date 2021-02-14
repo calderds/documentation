@@ -8,6 +8,7 @@
 * [GPG Keys and SSH Authentication](#gpg-keys-and-ssh-authentication)
 * [Git Authentication with GPG keys](#git-authentication-with-gpg-keys)
 
+
 ### What are GPG keys?
 
 ### Setting up GPG keys
